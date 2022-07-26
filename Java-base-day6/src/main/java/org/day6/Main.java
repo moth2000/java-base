@@ -149,7 +149,6 @@ public class Main {
                 System.out.println("输入错误!请输入相应操作对应的数字。");
                 printUserMenu();
                 break;
-
         }
     }
 }

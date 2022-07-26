@@ -111,7 +111,6 @@ public class AccountManager {
                 System.out.println("转账成功! 您当前余额为: " + currentAccount.balance +" 元");
             }
     }
-
     //打印交易信息
     public static void printTransactionList(){
         System.out.println(currentAccount.TransactionList);
