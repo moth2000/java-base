@@ -116,8 +116,4 @@ public class AccountManager {
     public static void printTransactionList(){
         System.out.println(currentAccount.TransactionList);
     }
-
-
-
-
 }

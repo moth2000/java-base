@@ -8,4 +8,5 @@ public class Account {
     public double balance = 0; //账号余额(初始为0)
     StringBuilder TransactionList = new StringBuilder(); //交易记录(拼接字符串)
 
+
 }
